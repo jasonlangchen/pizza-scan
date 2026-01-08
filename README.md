@@ -1,4 +1,4 @@
-# Pizza Scan
+# Pizza Scan AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -9,7 +9,7 @@
 
 ## Description
 
-Pizza Scan is an interactive computer vision web app that identifies six pizza toppings. This experiment involved using a **PyTorch model (ResNet 18)** and **transfer learning** to enable the model to identify different pizza toppings (chosen for fun). The model can identify pizzas with high confidence (80%+) through a **Streamlit webapp** with camera and upload functionalities. Through the programming process, I learned the basics of training and fine-tuning a model using PyTorch, cross-validation, managing Streamlit session states, and customizing CSS to override Streamlit elements.
+Pizza Scan AI is an interactive computer vision web app that identifies six pizza toppings. This experiment involved using a **PyTorch model (ResNet 18)** and **transfer learning** to enable the model to identify different pizza toppings (chosen for fun). The model can identify pizzas with high confidence (80%+) through a **Streamlit webapp** with camera and upload functionalities. Through the programming process, I learned the basics of training and fine-tuning a model using PyTorch, cross-validation, managing Streamlit session states, and customizing CSS to override Streamlit elements.
 
 ## Installation
 
